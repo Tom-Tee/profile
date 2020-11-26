@@ -1,4 +1,4 @@
-@import url('//fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+@import url(//fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap);
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -70,9 +70,9 @@ body {
 h1 {
   text-align: center;
 /*  text-decoration: underline overline;*/
-  font-family: 'Roboto Condensed', sans-serif,;
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight:  900;
-  font-style: italic;
+/*  font-style: italic;*/
   color: #0f2d3f;
   border-bottom: 1px solid #000;
   border-bottom-style: solid;
